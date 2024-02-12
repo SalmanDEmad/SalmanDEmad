@@ -2,12 +2,16 @@
 
 Hello, I'm SalmanDEmad! I'm passionate about web development, software development, and automation. I'm also an active YouTuber, creating content on a variety of tech-related topics.
 
-## About Me
-I'm a self-taught developer with a strong interest in building web applications and automating processes. I enjoy tinkering with new technologies and finding ways to make development more efficient and enjoyable.
-
-When I'm not coding, you can find me creating videos for my YouTube channel, [@sigmaspirits](https://www.youtube.com/sigmaspirits). I cover a range of topics, including personal growth philosophy, tech industry and make mini documentaries about stuffs that matter.
-
-![Cooru bab](https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966)
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h2>About Me</h2>
+    <p>I'm a self-taught developer with a strong interest in building web applications and automating processes. I enjoy tinkering with new technologies and finding ways to make development more efficient and enjoyable.</p>
+    <p>When I'm not coding, you can find me creating videos for my YouTube channel, <a href="https://www.youtube.com/sigmaspirits" target="_blank">@sigmaspirits</a>. I cover a range of topics, including personal growth philosophy, the tech industry, and make mini documentaries about things that matter.</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Cooru bab" style="max-width: 100%;">
+  </div>
+</div>
 
 ## Skills
 - **Web Development:** Bootstrap, Python, JavaScript, React, Flutter
