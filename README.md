@@ -7,6 +7,8 @@ I'm a self-taught developer with a strong interest in building web applications 
 
 When I'm not coding, you can find me creating videos for my YouTube channel, [@sigmaspirits](https://www.youtube.com/sigmaspirits). I cover a range of topics, including personal growth philosophy, tech industry and make mini documentaries about stuffs that matter.
 
+![Cooru bab](https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966)
+
 ## Skills
 - **Web Development:** Bootstrap, Python, JavaScript, React, Flutter
 - **Software Development:** Python, C++, C#
@@ -34,7 +36,7 @@ Here are some of my recent projects:
 If you're interested in connecting with me, you can find me on the following platforms:
 
 - YouTube: [@sigmaspirits](https://www.youtube.com/sigmaspirits)
-- LinkedIn: [SalmanDEmad]([https://www.linkedin.com/in/salman-emad-55a9a1261/)
+- LinkedIn: [SalmanDEmad](https://www.linkedin.com/in/salman-emad-55a9a1261/)
 - Twitter: [@sigmaspirits](https://twitter.com/sigmaspirits)
 - Instagram: [@sigmaspiritz](https://instagram.com/sigmaspiritz)
 
