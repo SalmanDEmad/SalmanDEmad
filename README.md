@@ -5,7 +5,7 @@ Hello, I'm SalmanDEmad! I'm passionate about web development, software developme
 ## About Me
 I'm a self-taught developer with a strong interest in building web applications and automating processes. I enjoy tinkering with new technologies and finding ways to make development more efficient and enjoyable.
 
-When I'm not coding, you can find me creating videos for my YouTube channel, [@sigmaspirits](https://www.youtube.com/sigmaspirits). I cover a range of topics, including programming tutorials, software reviews, and tech news.
+When I'm not coding, you can find me creating videos for my YouTube channel, [@sigmaspirits](https://www.youtube.com/sigmaspirits). I cover a range of topics, including personal growth philosophy, tech industry and make mini documentaries about stuffs that matter.
 
 ## Skills
 - **Web Development:** Bootstrap, Python, JavaScript, React, Flutter
@@ -13,6 +13,8 @@ When I'm not coding, you can find me creating videos for my YouTube channel, [@s
 - **Automation:** Selenium
 - **Backend Development:** Proficient in Flask and Django. Basic experience in Express.js.
 - **Mischellaneous**: Discord, Twitter and Telegram bot dev
+
+I also do [Wordpress dev](https://onzur.net) !!!
 
 ## Projects
 Here are some of my recent projects:
