@@ -1,11 +1,11 @@
 <h1 align="center">Salman D. Emad</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> • Content Creator • Automation Specialist
+  <strong>Full Stack Engineer</strong> • Systems Builder • Automation Specialist
 </p>
 
 <p align="center">
-  Building scalable web applications, efficient automation tools, and educational content on modern development practices.
+  Building scalable multi-tenant platforms, automation systems, and high-performance web applications.
 </p>
 
 <p align="center">
@@ -17,62 +17,73 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <!-- Use shields.io or devicons for icons; these are static images -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
 <p align="center">
-  <!-- Add more as needed: Python, Docker, AWS, etc. -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
-<h3>Backend & Tools</h3>
-<ul>
-  <li>Express, NestJS, REST/GraphQL APIs</li>
-  <li>PostgreSQL, MongoDB, Redis</li>
-  <li>Docker, CI/CD pipelines, automation scripting</li>
-</ul>
+<p align="center">
+  <!-- Databases & DevOps -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-<h3>Frontend & Design</h3>
+<hr>
+
+<h2 align="center">Core Focus</h2>
+
 <ul>
-  <li>React/Next.js ecosystems, Tailwind CSS, TypeScript</li>
-  <li>Responsive layouts, performance optimization</li>
+  <li>Multi-tenant SaaS architecture & scalable backend systems</li>
+  <li>API design (REST & GraphQL)</li>
+  <li>Authentication systems, RBAC, and access control</li>
+  <li>Performance optimization & database design</li>
+  <li>Automation scripting & workflow systems</li>
 </ul>
 
 <hr>
 
 <h2 align="center">Featured Projects</h2>
 
-<table align="center" style="width: 80%; border-collapse: collapse;">
+<table align="center" style="width: 85%; border-collapse: collapse;">
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Key Features</th>
+    <th>Key Technologies</th>
   </tr>
   <tr>
     <td><strong>Artist Portfolio Platform</strong></td>
-    <td>Standalone portfolio sites for visual artists with client tools</td>
-    <td>Custom domains, contact forms, gallery management</td>
+    <td>Scalable portfolio system with client management tools</td>
+    <td>Next.js, Laravel/Node, MySQL</td>
   </tr>
   <tr>
     <td><strong>Alternative Social Media Platform</strong></td>
-    <td>Algorithm-free feed control and privacy-first design</td>
-    <td>User-custom feeds, time capsules, no tracking</td>
+    <td>Privacy-first feed control & custom user logic</td>
+    <td>React, Express/NestJS, PostgreSQL</td>
   </tr>
   <tr>
-    <td><strong>LifeLines — Media Awareness Tool</strong> (CMU-Q Hackathon)</td>
-    <td>Semantic analysis exposing biased language without hallucinations</td>
-    <td>Question-based fact probing, linguistic pattern detection</td>
+    <td><strong>LifeLines — Media Awareness Tool</strong></td>
+    <td>Semantic bias detection without hallucinated claims</td>
+    <td>Python (Flask/Django), NLP models</td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Looking for collaborators on privacy-focused or AI-media projects. Reach out.</em>
+  <em>Interested in large-scale system design, automation platforms, and privacy-focused infrastructure.</em>
 </p>
 
 <hr>
@@ -80,7 +91,6 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <!-- Replace YOUR_USERNAME with salman-your-github-username -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Streak Stats">
 </p>
@@ -98,8 +108,4 @@
   <a href="https://twitter.com/YOUR_TWITTER">Twitter/X</a> •
   <a href="mailto:your.email@example.com">Email</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
-</p>
-
-<p align="center">
-  Open to discussions on full-stack architecture, automation, or content creation.
 </p>
